@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             body: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
-                  Image.asset(width: 300, "assets/photo_1.jpeg")
+                  Image.asset(width: 300, "../assets/photo_1.jpeg")
                 ])));
   }
 }
